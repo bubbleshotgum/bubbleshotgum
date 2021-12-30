@@ -3,4 +3,4 @@
   <h1>Errare humanum est</h1>
 </div>
 
-*Header image taken from* [here](https://svgrepo.com)
+*Header image taken from* <a href="https://svgrepo.com" target="_blank">here</a>
